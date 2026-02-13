@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Flask instance folder (database usually stored here)
+instance/
+*.db
+*.sqlite3
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
